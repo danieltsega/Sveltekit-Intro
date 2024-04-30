@@ -2,7 +2,7 @@
     export let data;
 </script>
 
-<div class="layout">
+<div class="layout py-8">
     <main>
         <slot/>
     </main>
